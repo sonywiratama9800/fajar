@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #e2edff;
+}
+
+.about .content h3 {
+  font-weight: 700;
+  font-size: 30px;
+  color: #0ddacf;
+}
+
+.about .content p:last-child {
+  margin-bottom: 0;
+}
+
+#project {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+.p {
+  font-size: 20px;
+}
